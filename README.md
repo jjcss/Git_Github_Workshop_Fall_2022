@@ -52,6 +52,7 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 ### Making default branch Main
 1. Open up your terminal and enter the command `git config --global init.default branch main`
 -----> Good practice to name your default branch `main` as GitHub recommends we name it this, rather than the default name `master`.
+2. After entering every command before this section, in "Installing Git, "Adding Git Username", and "Adding Github/Git Email" are steps that you won't need to ever do again.
 
 ### Connecting IDE to Github using Git
 1. Download an IDE of your preference. We'll be using [Visual Studio Code](https://code.visualstudio.com/download) for the demo. Please download VSC if you don't have it already.
