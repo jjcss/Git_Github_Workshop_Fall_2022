@@ -11,8 +11,14 @@ Zoom recording: [TBD]() <br>
 ## Git/Github Resources
 Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
 Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw) <br>
+
+## Git/Github Resources When Collaborating with others in one Repository
 Using Git/Github to Collaborate with others in a project [Youtube Video](https://www.youtube.com/watch?v=jhtbhSpV5YA&t=350s) <br>
 [Video Series](https://www.youtube.com/watch?v=4nyIS58ORWw) on Github Collaboration <br>
+Using [Figma](https://www.figma.com/) to create prototypes and designs of your project before you begin coding
+Figma [Youtube Tuturial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg)
+Using [HackMD](https://hackmd.io/) to create better structured read.me files on Github
+HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg)
 
 ---
 
