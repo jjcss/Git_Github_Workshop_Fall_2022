@@ -1,6 +1,3 @@
-# Git_Github_Workshop_Fall_2022
-
-
 <img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> <img src="https://i.imgur.com/Bzkqs5I.png" alt="drawing" width="100"/>
 
 # Computer Science Society Club
@@ -10,8 +7,14 @@
 
 Date: Septembery 27th, 2022 <br>
 Zoom recording: [TBD]() <br>
+
+## Git/Github Resources
 Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
 Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw) <br>
+Using Git/Github to Collaborate with others in a project [Youtube Video](https://www.youtube.com/watch?v=jhtbhSpV5YA&t=350s) <br>
+[Video Series](https://www.youtube.com/watch?v=4nyIS58ORWw) on Github Collaboration <br>
+
+---
 
 ### Installing Git
 1. Install [Git](https://git-scm.com/downloads) if it's not already download on your operating system. <br>
@@ -125,5 +128,6 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 11. In order to bring the changes into Visual Studio code, we must enter the command `git pull origin main`. Now, we can see the new changes inside of our new main branch. <br>
 12. That is all! Practice creating a branch and pull request again.
 
+### Fork a Repository
 
 
