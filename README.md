@@ -3,8 +3,6 @@
 
 <img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> <img src="https://i.imgur.com/Bzkqs5I.png" alt="drawing" width="100"/>
 
-<!-- Template of how emails should look like before we send them out. Make sure you get the "go" from the Secretary or President before we send out the emails to all club members -->
-
 # Computer Science Society Club
 
 
@@ -16,8 +14,8 @@ Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet
 Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw) <br>
 
 ### Installing Git
-1. Install [Git](https://git-scm.com/downloads) if it's not already download on your operating system.
-  --For Mac users, it should already come pre-installed
+1. Install [Git](https://git-scm.com/downloads) if it's not already download on your operating system. <br>
+  --For Mac users, it should already come pre-installed <br>
   --For Window users, check out this [link](https://www.computerhope.com/issues/ch001927.htm) to learn how to install Git
 2. Check that you've installed Git properly. Open up your terminal and run the command `git --version`. If your terminal outputs your git version, then you are good to go, if not `retry doing` the first step.
   <img width="394" alt="Screen Shot 2022-09-24 at 12 35 07 PM" src="https://user-images.githubusercontent.com/71786791/192108981-521a2fbe-b643-4276-af8a-eb1db9db75ac.png">
@@ -41,7 +39,7 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 <img width="355" alt="Screen Shot 2022-09-25 at 9 39 32 PM" src="https://user-images.githubusercontent.com/71786791/192177514-7d7843f9-5fac-4b53-a26a-1337c91ccb32.png">
 4. After you add your primary email, you will need to `verify your email address (important)`. Take a few minutes to verify your email. Github will send you an email, and you'll need to click the link that they sent you and you should see a message like below:
 <img width="522" alt="Screen Shot 2022-09-25 at 9 42 06 PM" src="https://user-images.githubusercontent.com/71786791/192177749-69bb25de-95b0-4e93-a843-28bc7e4d1b5e.png">
-5. Next, under `Primary email address", select the email that you just listed and click `Save`.
+5. Next, under `Primary email address`, select the email that you just listed and click `Save`.
 <img width="779" alt="Screen Shot 2022-09-25 at 9 43 43 PM" src="https://user-images.githubusercontent.com/71786791/192177983-fd1efd8a-ff76-4c99-b881-7a10742b5430.png">
 6. Scroll down a little bit and make sure this is checked:
 <img width="777" alt="Screen Shot 2022-09-25 at 9 47 07 PM" src="https://user-images.githubusercontent.com/71786791/192178183-8bbe53f2-ff03-4764-9aa5-cfc045d6570f.png">
@@ -75,7 +73,7 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 11. Once you know are inside where your folder is located (for me, it is desktop), enter the command `cd folder_name_goes_here`. After cd enter the folders name that we created in Visual Studio code. Now you are inside the folder that you created and soon once we add files, you'll be able to see them on your terminal.
 <img width="399" alt="Screen Shot 2022-09-25 at 10 34 50 PM" src="https://user-images.githubusercontent.com/71786791/192182722-6298d937-a9cb-4c67-8c35-7377a75b1f49.png">
 12. Inside of your terminal enter the command `git init`. This will create an empty repository "locally". <br>
-13. Next, let's go back to the Github Repository, where we saw the commands that GitHub provided for us. Let's copy the command `git branch -M main' and let's paste it inside of our terminal and let's press enter. This will make our "official branch" and name it `main`.
+13. Next, let's go back to the Github Repository, where we saw the commands that GitHub provided for us. Let's copy the command `git branch -M main` and let's paste it inside of our terminal and let's press enter. This will make our "official branch" and name it `main`.
 <img width="805" alt="Screen Shot 2022-09-25 at 10 40 56 PM" src="https://user-images.githubusercontent.com/71786791/192183375-4d1f4222-5729-4b75-84f6-3e874b995b1d.png">
 14. Next, copy the line below it, `git remote add origin git@github.com:r0m3c/Git_Practice.git`, and paste it in your terminal and press enter. Notice that after `github.com:` yours will be different because you have a different username and have a different name for your repository.
 <img width="1500" alt="Screen Shot 2022-09-25 at 10 44 15 PM" src="https://user-images.githubusercontent.com/71786791/192183728-ae95fa5b-8901-4f98-9743-ae701e067fe6.png">
@@ -87,7 +85,7 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 <img width="1043" alt="Screen Shot 2022-09-25 at 10 53 01 PM" src="https://user-images.githubusercontent.com/71786791/192184653-eb4f779f-b758-4b89-9728-6104cbbfe8bb.png">
 3. Now that we made these new changes to our folder, let's head over to our terminal and let's insert the command `git status`. Your terminal is now keeping track of any new code changes or files that you made. This tells us that we have new changes that we want to commit.
 <img width="503" alt="Screen Shot 2022-09-25 at 10 54 47 PM" src="https://user-images.githubusercontent.com/71786791/192184971-d06fa79d-bf6c-4987-b640-5fc573a5b4d8.png">
-4. In order to tell git that we want to upload these new changes to our repository, we can proceed in two ways. If you have made multiple files and you would like to upload all files that you made changes to you can enter the command `git add .' . If you enter the command `git status` again, you should now see that the files that were red are now green, meaning that everything in green will soon be uploaded to your repository. This adds all files in your folder to be uploaded. Now, let's say you made multiple changes, but you don't want to add all changes that you made to be uploaded. You can select a single file that you made a change to and enter it into the command line like this: `git add index.html`.
+4. In order to tell git that we want to upload these new changes to our repository, we can proceed in two ways. If you have made multiple files and you would like to upload all files that you made changes to you can enter the command `git add .` . If you enter the command `git status` again, you should now see that the files that were red are now green, meaning that everything in green will soon be uploaded to your repository. This adds all files in your folder to be uploaded. Now, let's say you made multiple changes, but you don't want to add all changes that you made to be uploaded. You can select a single file that you made a change to and enter it into the command line like this: `git add index.html`.
 <img width="448" alt="Screen Shot 2022-09-25 at 11 08 17 PM" src="https://user-images.githubusercontent.com/71786791/192186273-d7ff2b30-1bb0-4e32-a712-6900bda65b58.png">
 5. Next, we have to add a commit message to the files that we just added to be uploaded. We can do this with the command `git commit -m "add any message here"`. This message will appear in your Github repository when we push all changes in our next command.
 <img width="565" alt="Screen Shot 2022-09-25 at 11 10 23 PM" src="https://user-images.githubusercontent.com/71786791/192186499-c9c166fd-5b1a-4715-bc44-24712b67be70.png">
@@ -122,8 +120,8 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 8. Now, go back to the `code` tab in your repository and take a look at your new changes that should show up in your files.
 <img width="696" alt="Screen Shot 2022-09-26 at 12 04 18 AM" src="https://user-images.githubusercontent.com/71786791/192191697-1dacd277-c127-4a24-a712-f2c518bf508b.png">
 9. This is how you create a new pull request and merge your changes with your main branch on Github. Now, if we want to see our changes in our main branch let's begin by going to terminal. <br>
-10. Let's enter the command `git checkout main' to head back to our main branch. As you can see, the old code that we had previous to our new branch is showing. That is because our new changes are currently stored in our Github repository only. <br>
-11. In order to bring the changes into Visual Studio code, we must enter the command 'git pull origin main'. Now, we can see the new changes inside of our new main branch. <br>
+10. Let's enter the command `git checkout main` to head back to our main branch. As you can see, the old code that we had previous to our new branch is showing. That is because our new changes are currently stored in our Github repository only. <br>
+11. In order to bring the changes into Visual Studio code, we must enter the command `git pull origin main`. Now, we can see the new changes inside of our new main branch. <br>
 12. That is all! Practice creating a branch and pull request again.
 
 
