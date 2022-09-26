@@ -10,6 +10,11 @@
 
 ## Git and Github Demo
 
+Date: Septembery 27th, 2022 <br>
+Zoom recording: [TBD]() <br>
+Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
+Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw) <br>
+
 ### Installing Git
 1. Install [Git](https://git-scm.com/downloads) if it's not already download on your operating system.
   --For Mac users, it should already come pre-installed
