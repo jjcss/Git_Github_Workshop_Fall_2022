@@ -15,10 +15,10 @@ Learn Git through a [Youtube Video](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 ## Git/Github Resources When Collaborating with others in one Repository
 Using Git/Github to Collaborate with others in a project [Youtube Video](https://www.youtube.com/watch?v=jhtbhSpV5YA&t=350s) <br>
 [Video Series](https://www.youtube.com/watch?v=4nyIS58ORWw) on Github Collaboration <br>
-Using [Figma](https://www.figma.com/) to create prototypes and designs of your project before you begin coding
-Figma [Youtube Tuturial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg)
-Using [HackMD](https://hackmd.io/) to create better structured read.me files on Github
-HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg)
+Using [Figma](https://www.figma.com/) to create prototypes and designs of your project before you begin coding <br>
+Figma [Youtube Tuturial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg) <br>
+Using [HackMD](https://hackmd.io/) to create better structured read.me files on Github <br>
+HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
 
 ---
 
