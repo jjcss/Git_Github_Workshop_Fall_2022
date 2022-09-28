@@ -6,7 +6,7 @@
 ## Git and Github Demo
 
 Date: Septembery 27th, 2022 <br>
-Zoom recording: [TBD]() <br>
+Zoom recording: [Click here](https://jjay-cuny.zoom.us/rec/share/MR2p9jVHp5CGxcgHtc9giRHi9qMmxejSgVepG0CXLJbHwUddJX86NQlKtABqmqT6.VvmTYV0oNDnsy694) <br>
 
 ## Git/Github Resources
 Git Commands [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) <br>
@@ -21,6 +21,8 @@ Using [HackMD](https://hackmd.io/) to create better structured read.me files on 
 HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
 
 ---
+
+# Beginning of Demo
 
 ### Installing Git
 1. Install [Git](https://git-scm.com/downloads) if it's not already download on your operating system. <br>
@@ -135,5 +137,5 @@ HackMD [Youtube Turorial](https://www.youtube.com/watch?v=vGXFm_Xicbg) <br>
 12. That is all! Practice creating a branch and pull request again.
 
 ### Fork a Repository
-
+[Click here](https://www.youtube.com/watch?v=nT8KGYVurIU&t=426s) to learn more about forking a repository.
 
